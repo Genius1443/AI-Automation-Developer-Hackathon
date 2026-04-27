@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+tldextract
+fastapi
+uvicorn
+pydantic
+streamlit
+openai
